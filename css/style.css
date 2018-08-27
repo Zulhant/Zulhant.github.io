@@ -1,0 +1,21 @@
+.panel-default {
+    margin-top: 20px;
+}
+.panel-heading {
+    background-color: aliceblue;
+}
+.img-circle{
+    width: 120px;
+    align-content: center
+}
+#icon {
+    text-align: center
+}
+.title-heading {
+    text-align: center;
+    color: brown;
+}
+.text-desc {
+    text-align: center;
+    color: black
+}
